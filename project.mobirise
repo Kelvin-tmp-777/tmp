@@ -30,7 +30,8 @@
       },
       "titlePreset": "Mobile App",
       "nameSelectPreset": "mobile-app",
-      "presetSourceTheme": "appm5"
+      "presetSourceTheme": "appm5",
+      "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
     "name": "Site-01-16_1036",
@@ -51,11 +52,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
-        "header_custom": "",
+        "title": "Выкуп трансформаторов",
+        "meta_descr": "Покупаем трансформаторы ТМПН, ТМПНГ б/у в любом состоянии в любом количестве, мощностью от 63 до 1250 ква. Форма оплаты с НДС, без НДС, наличные.",
+        "header_custom": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(87253123, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true,\n        ecommerce:\"dataLayer\"\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/87253123\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/-2022-01-16-13.10.36-995x670.png"
       },
       "components": [
         {
